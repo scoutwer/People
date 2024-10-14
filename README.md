@@ -1,5 +1,5 @@
 # People
 
-Krzysztof Kurlit
-Ignacy Dudziak
+Krzysztof Kurlit,
+Ignacy Dudziak,
 Kuba Baran
